@@ -2,4 +2,6 @@ este es un mensaje de prueba
 
 para el curso de Git y Github q tanta pereza me estaba dando hacer
 
+tengo 40 años asumiendo un reto
+
 por que me parece tedioso e innecesario a este nivel de programacion
